@@ -1,6 +1,6 @@
 - 👋 #Hi, I’m Ritesh 
 - 👀 I’m interested to work on web 3.0
-- 🌱 I’m currently learning MERN STACK development
+- 🌱 I’m MERN STACK developer
 - 💞️ I’m looking to collaborate on Big Project.
 - 📫 How to reach me riteshuk07@gmail.com
 - ⚡ Fun fact: I am currently studying B.Sc Data Science
